@@ -11,15 +11,22 @@
 
 1. 极速PDF
 2. wps
-3. postman
-4. vscode
-5. idea
 6. chrome
 7. 有道云
-8. quicksetdns
-9. snipaste
+8. 设置dns工具：quickserdns
+9. snipaste截图、贴图软件
 10. listary
 11. uninstall tool
-12. ditto
+12. 剪切板：ditto
 13. notepad++
+11. flux护眼
+12. 滴答清单
+13. markdown文件：Typora
+
+## 开发软件
+
+1. 编码：idea
+2. 文本编辑：vscode
+3. 接口测试：postman
+4. 数据库连接：dbeaver
 
