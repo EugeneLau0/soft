@@ -35,6 +35,7 @@
 6. 剪切板：ditto
 7. notepad++
 8. flux护眼
+8. 输入法，QQ pinyin6.2
 
 #### 工作
 
