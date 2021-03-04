@@ -11,6 +11,7 @@
 3. 有道云笔记
 4. 滴答清单
 5. markdown文件：Typora
+6. clearview，mobi、pdf阅读器
 
 #### 工作
 
