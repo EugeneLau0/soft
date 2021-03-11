@@ -11,7 +11,6 @@
 3. 有道云笔记
 4. 滴答清单
 5. markdown文件：Typora
-6. clearview，mobi、pdf阅读器
 
 #### 工作
 
@@ -37,9 +36,12 @@
 7. notepad++
 8. flux护眼
 8. 输入法，QQ pinyin6.2
+9. kindle，mobi、pdf阅读器
 
 #### 工作
 
 1. 设置dns工具：quickserdns
 
 ## Mac系统
+
+1. clearview，mobi、pdf阅读器
